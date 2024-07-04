@@ -8,7 +8,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237952B3" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26" alt="HTML5" />
     <img src="https://img.shields.io/badge/css3-purple?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6" alt="CSS" />
   </div>
 
